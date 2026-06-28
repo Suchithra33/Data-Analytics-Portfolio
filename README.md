@@ -18,7 +18,7 @@ Welcome to my portfolio! This repository showcases my data analytics projects, f
 ### 1. 📈 Power BI Dashboards
 * **Description:** A brief 1-2 sentence overview of what business problem this dashboard solves (e.g., HR Analytics, Sales Performance).
 * **Key Insights:** Mention one or two major metrics you uncovered.
-* **View Project:** [Click here to view files(./PowerBI-Dashboard-Project/)
+* **View Project:** [Click here to view files](./PowerBI-Dashboard-Project/)
 
 ### 2. 📊 Excel Analytics Projects
 * **Description:** Overview of your advanced Excel work (e.g., dynamic dashboards using Pivot Tables, VLOOKUP/XLOOKUP, and interactive slicers).
