@@ -16,14 +16,16 @@ Welcome to my portfolio! This repository showcases my data analytics projects, f
 ## 📂 Featured Projects
 
 ### 1. 📈 Power BI Dashboards
-* **Description:** A brief 1-2 sentence overview of what business problem this dashboard solves (e.g., HR Analytics, Sales Performance).
-* **Key Insights:** Mention one or two major metrics you uncovered.
+* **Description:** An interactive HR Analytics dashboard designed to track employee data, analyze turnover drivers, and discover patterns related to workforce demographics, tenure, and department-specific attrition.
+* **Key Insights:** Uncovered a global attrition rate of **4.87%** (200 total departures from a 1.345K workforce), with the **Operations** department accounting for the highest share of turnover at **33.5%**.
 * **View Project:** [Click here to view files](./PowerBI-Dashboard-Project/)
 
-### 2. 📊 Excel Analytics Projects
-* **Description:** Overview of your advanced Excel work (e.g., dynamic dashboards using Pivot Tables, VLOOKUP/XLOOKUP, and interactive slicers).
-* **View Project:** [Click here to view files](./Excel-Dashboard-Project/)
+---
 
+### 2. 📊 Excel Analytics Projects
+* **Description:** A dynamic Sales Performance dashboard built using advanced Excel tracking features, interactive regional and category slicers, and custom charting to analyze corporate profitability and team performance.
+* **Key Insights:** Evaluated a total revenue stream of **$3,235,200.00** yielding a **$788,066.00** profit margin, while identifying **Aisha** as the leading sales representative and **Furniture** as the dominant product category (51% share).
+* **View Project:** [Click here to view files](./Excel-Dashboard-Project/)
 ---
 
 ## 📫 Connect with Me
